@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"SERVO1, SERVO2, SERVO3, SERVO4",4,"Positional Micro Servo"
+"RpotPot11, RpotPot2, RpotPot3",3,"10 kΩ Potentiometer"
